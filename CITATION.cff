@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+authors:
+  - family-names: "Bristow"
+    given-names: "James"
+    orcid: "https://orcid.org/0009-0002-3381-7466"
+  - family-names: "Finucci"
+    given-names: "Brittany"
+    orcid: "https://orcid.org/0000-0003-1315-2946"
+  - family-names: "Smith"
+    given-names: "Adam N. H."
+    orcid: "https://orcid.org/0000-0003-0059-6206"
+title: "Automated reading of vertebral images for aging shortfin mako (Isurus oxyrinchus) using Bayesian deep learning"
+version: 1.0.0
+date-released: 2026-05-25
+license: MIT
+url: "https://github.com/JBris/automated_aging_shortfin_mako"
