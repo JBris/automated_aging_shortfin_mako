@@ -1,5 +1,7 @@
 # Automated reading of vertebral images for aging shortfin mako (Isurus oxyrinchus) using Bayesian deep learning
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20401378.svg)](https://doi.org/10.5281/zenodo.20401378)
+
 Code and data for the publication: Automated reading of vertebral images for aging shortfin mako (Isurus oxyrinchus) using Bayesian deep learning
 
 ## Directory structure
