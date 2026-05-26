@@ -4,6 +4,26 @@
 
 Code and data for the publication: Automated reading of vertebral images for aging shortfin mako (Isurus oxyrinchus) using Bayesian deep learning
 
+## Citation
+
+```
+@software{bristow_2026_20401378,
+  author       = {Bristow, James and
+                  Finucci, Brittany and
+                  Smith, Adam N. H.},
+  title        = {Automated reading of vertebral images for aging
+                   shortfin mako (Isurus oxyrinchus) using Bayesian
+                   deep learning
+                  },
+  month        = may,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.20401378},
+  url          = {https://doi.org/10.5281/zenodo.20401378},
+}
+```
+
 ## Directory structure
 
 ### Python scripts
